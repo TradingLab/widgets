@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/lineedits.dir/lineedits.cpp.o CMakeFiles/lineedits.dir/main.cpp.o  -o lineedits -rdynamic -lQtCore -lQtGui 

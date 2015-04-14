@@ -1,0 +1,1 @@
+/home/jordi/TradingLab/widgets/lineedits/build/CMakeFiles/lineedits.dir
